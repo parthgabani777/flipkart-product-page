@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Single Breasted Solid Men Suit",
+        "price": 16999,
+        "image": "https://rukminim1.flixcart.com/image/495/594/l0pm3680/suit/q/u/e/50-vhsucslfi25523-van-heusen-original-imagcfq7mdngp9kb.jpeg?q=50",
+        "size": ["S", "X"],
+        "brand": "VAN HEUSEN",
+        "idealFor": "Men"
+    },
+    {
+        "title": "Solid Men Polo Neck Black T-Shirt",
+        "price": 820,
+        "image": "https://rukminim1.flixcart.com/image/495/594/l0lbrm80/t-shirt/z/u/a/m-lmts001452-lee-original-imagccfmfucgvtb8.jpeg?q=50",
+        "size": ["XL"],
+        "brand": "LEE",
+        "idealFor": "Men"
+    },
+    {
+        "title": "Single Breasted - 2 button Solid Men Suit",
+        "price": 11899,
+        "image": "https://rukminim1.flixcart.com/image/495/594/l4ei1e80/suit/7/g/d/44-lpsumslf363744-louis-philippe-original-imagfawsezdyfp2x.jpeg?q=50",
+        "size": ["M", "XL"],
+        "brand": "LOUIS PHILIPPE",
+        "idealFor": "Men"
+    },
+    {
+        "title": "Printed Single Breasted Casual Men Blazer  (Green)",
+        "price": 11899,
+        "image": "https://rukminim1.flixcart.com/image/495/594/jg8ahzk0/blazer/q/d/f/54-1969734-olivine-jack-jones-original-imaf3kzxznpmxge4.jpeg?q=50",
+        "size": ["S"],
+        "brand": "JACK & JONES",
+        "idealFor": "Men"
+    },
+    {
+        "title": "Pure Georgette Women Churidar",
+        "price": 6499,
+        "image": "https://rukminim1.flixcart.com/image/495/594/krp94sw0/ethnic-set/v/l/v/l-ows1skd3511a-soch-original-imag5fnvcqv3tvkq.jpeg?q=50",
+        "size": ["M", "L"],
+        "brand": "soch",
+        "idealFor": "Women"
+    },
+    {
+        "title": "Embellished Bollywood Net Saree  (Red)",
+        "price": 8999,
+        "image": "https://rukminim1.flixcart.com/image/495/594/l572ufk0/sari/3/b/w/free-g-4848-pia-semi-stitched-original-imagfxanwcyzdt7u.jpeg?q=50",
+        "size": ["S", "XL"],
+        "brand": "pia",
+        "idealFor": "Women"
+    }
+]
